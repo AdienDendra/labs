@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 """
+Claude Fable 5 Research — 2026-07-03
+
 mortgage_calc.py — Kalkulator KPR Australia (NSW) untuk first home buyer.
 
 Menghitung:
