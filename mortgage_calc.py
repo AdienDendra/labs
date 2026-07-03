@@ -14,6 +14,7 @@ Contoh pakai:
   python mortgage_calc.py --salary 115000 80000 --cash 130000 --rate 6.25
   python mortgage_calc.py --salary 115000 80000 --target-price 1000000
   python mortgage_calc.py --salary 115000 80000 --rate 5.75   # simulasi rate cut
+  python3 mortgage_calc.py --salary 115000 80000 --cash 130000 --rate 6.25 --target-price 1000000
 
 Catatan: angka HEM, buffer, dan bracket duty adalah aproksimasi aturan publik.
 Ini alat edukasi, bukan nasihat finansial — kalkulator tiap lender berbeda.
